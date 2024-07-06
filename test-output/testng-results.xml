@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-20T16:48:48 IST" name="Default suite" finished-at="2024-06-20T16:49:26 IST" duration-ms="38947">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T16:48:48 IST" name="Default test" finished-at="2024-06-20T16:49:26 IST" duration-ms="38947">
+      <class name="vertical_retail.retailecommerceClass1Test">
+        <test-method is-config="true" signature="navigate()[pri:0, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:48:48 IST" name="navigate" finished-at="2024-06-20T16:49:05 IST" duration-ms="17077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="verticals()[pri:1, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:49:05 IST" name="verticals" finished-at="2024-06-20T16:49:07 IST" duration-ms="2495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verticals -->
+        <test-method signature="retail()[pri:2, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:49:07 IST" name="retail" finished-at="2024-06-20T16:49:10 IST" duration-ms="2397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retail -->
+        <test-method signature="ecom()[pri:3, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:49:10 IST" name="ecom" finished-at="2024-06-20T16:49:14 IST" duration-ms="4601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecom -->
+        <test-method signature="text()[pri:4, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:49:14 IST" name="text" finished-at="2024-06-20T16:49:16 IST" duration-ms="2127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- text -->
+        <test-method signature="verticals2()[pri:5, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:49:16 IST" name="verticals2" finished-at="2024-06-20T16:49:20 IST" duration-ms="3089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verticals2 -->
+        <test-method signature="retail2()[pri:6, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:49:20 IST" name="retail2" finished-at="2024-06-20T16:49:22 IST" duration-ms="2211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retail2 -->
+        <test-method signature="ecomdev()[pri:7, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:49:22 IST" name="ecomdev" finished-at="2024-06-20T16:49:26 IST" duration-ms="3949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecomdev -->
+        <test-method is-config="true" signature="close()[pri:0, instance:vertical_retail.retailecommerceClass1Test@319bc845]" started-at="2024-06-20T16:49:26 IST" name="close" finished-at="2024-06-20T16:49:26 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- vertical_retail.retailecommerceClass1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
